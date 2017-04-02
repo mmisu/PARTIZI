@@ -1,0 +1,2 @@
+# PARTIZI
+Evidenta partizi
